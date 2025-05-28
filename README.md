@@ -1,3 +1,2 @@
-# GitHub Pages Video Project
-
-用于视频预览和下载
+# Video Page
+通过 GitHub Pages 部署视频网页
